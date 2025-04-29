@@ -53,5 +53,5 @@ It contains:
 Ishant Katiyar
 
 ## 📬 Contact
-LinkedIn: https://www.linkedin.com/in/ishantkatiyar
-Email: ishantkatiyar68@email.com
+- LinkedIn: https://www.linkedin.com/in/ishantkatiyar
+- Email: ishantkatiyar68@email.com
